@@ -573,7 +573,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Muzej Presečki",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
